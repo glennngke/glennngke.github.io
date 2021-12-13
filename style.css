@@ -1,0 +1,105 @@
+
+:root {
+  --background-primary: rgb(211, 211, 211);
+  --highlight-primary: #122316;
+}
+
+body {
+
+}
+
+
+.title-container {
+  height: 40vh;
+  background: rgb(169, 169, 169);
+}
+
+.title-hello {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+.title-name {
+    color: rgb(0, 0, 0);
+    background-color: #F5CDAA;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+
+    position: relative;
+    top: -1rem;
+}
+
+.title-tag {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.about-me-container {
+  width: 80vw;
+  height: 40vh;
+
+  padding-left: 20px!important:
+  padding-right: 20px!important;
+
+  margin-left: 10vw;
+
+  background: rgb(192, 186, 153);
+}
+
+.about-me-image {
+  height: 17vw;
+  width: 17vw;
+
+  border-radius: 100%;
+
+  box-shadow: 10px 5px 10px black;
+}
+
+.about-me-text {
+  color: rgb(248, 152, 128);
+
+  font-size: 1.2rem;
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+  padding-left: 5%!important:
+  padding-right: 5%!important;
+}
+
+.contact-me-container {
+  margin-top: 10vh;
+
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.contact-me-icon {
+  width: 10rem;
+  height: 10rem;
+}
+
+.achievement-container {
+  width: 80vw;
+  margin-left: 10vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.achievements {
+  font-size: 1.2rem;
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.achievements-title {
+  font-size: 2rem;
+  font-weight: 700
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+  margin-top: 10vh;
+  margin-left: 10vw;
+}

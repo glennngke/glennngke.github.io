@@ -1,0 +1,71 @@
+:root {
+    --color_0: 255,255,255;
+    --color_27: 121,211,231;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 255,203,5;
+    --color_4: 0,136,203;
+    --color_5: 237,28,36;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_28: 11,181,219;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 250,250,250;
+    --color_12: 200,200,200;
+    --color_13: 150,150,150;
+    --color_14: 100,100,100;
+    --color_15: 0,0,0;
+    --color_16: 251,185,222;
+    --color_17: 247,149,204;
+    --color_18: 242,51,159;
+    --color_29: 7,121,146;
+    --color_19: 162,34,106;
+    --color_20: 81,17,53;
+    --color_21: 255,239,175;
+    --color_22: 255,231,135;
+    --color_23: 255,207,15;
+    --color_24: 170,138,10;
+    --color_25: 85,69,5;
+    --color_30: 4,60,73;
+    --color_31: 160,237,220;
+    --color_32: 112,219,196;
+    --color_33: 4,201,159;
+    --color_34: 3,134,106;
+    --color_35: 1,67,53;
+    --font_0: normal normal normal 80px/1.4em museo-w01-700,museo-w05-700,serif;
+    --font_1: normal normal normal 17px/1.4em raleway,sans-serif;
+    --font_2: normal normal normal 20px/1.4em raleway,sans-serif;
+    --font_3: normal normal normal 60px/1.4em museo-slab-w01-100,museo-slab-w05-100,serif;
+    --font_4: normal normal normal 40px/1.4em museo-slab-w01-100,museo-slab-w05-100,serif;
+    --font_5: normal normal normal 25px/1.4em museo-slab-w01-100,museo-slab-w05-100,serif;
+    --font_6: normal normal normal 19px/1.4em raleway,sans-serif;
+    --font_7: normal normal normal 17px/1.4em raleway,sans-serif;
+    --font_8: normal normal normal 15px/1.4em raleway,sans-serif;
+    --font_9: normal normal normal 12px/1.4em raleway,sans-serif;
+    --font_10: normal normal normal 10px/1.4em raleway,sans-serif;
+    --wix-ads-height: 50px;
+    --wix-ads-top-height: 50px;
+    --site-width: 980px;
+    --above-all-z-index: 100000;
+Show All Properties (4 more)
+}
+body, html {
+    height: 100%;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+}
